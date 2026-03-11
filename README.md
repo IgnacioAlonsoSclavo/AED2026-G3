@@ -5,6 +5,6 @@ Problem Sets UT0
 Integrantes:
 - Marcel Marsico
 - Jorge Filardi
-- Camila da col
+- Camila Da Col
 - Alexander Rosa Farías
 - Ignacio Alonso
