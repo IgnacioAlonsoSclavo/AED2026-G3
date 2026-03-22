@@ -1,4 +1,4 @@
-﻿package org.ejercicio2;
+package org.ejercicio2;
 import java.util.Scanner;
 public class ArithmeticDemo {
     public static void main(String[] args) {

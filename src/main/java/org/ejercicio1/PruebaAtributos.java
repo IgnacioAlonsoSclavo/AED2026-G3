@@ -1,4 +1,4 @@
-﻿package org.ejercicio1;
+package org.ejercicio1;
 
 public class PruebaAtributos {
     public static void main(String[] args) {
